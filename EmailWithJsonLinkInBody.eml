@@ -1,0 +1,19 @@
+MIME-Version: 1.0
+Date: Wed, 12 Jul 2023 08:17:34 -0600
+Message-ID: <CANfjSsFLt2Tyjvo_qw2Z9cNce93joN+rrmzrfm0A_Yzw3vu5+g@mail.gmail.com>
+Subject: EmailWithJsonLinkInBody
+From: Pedro Cano <pedrinche27@gmail.com>
+To: Pedro Cano <pedrinche27@gmail.com>
+Content-Type: multipart/alternative; boundary="00000000000081552906004ae029"
+
+--00000000000081552906004ae029
+Content-Type: text/plain; charset="UTF-8"
+
+https://raw.githubusercontent.com/aws/aws-lambda-go/main/events/testdata/ses-sns-event.json
+
+--00000000000081552906004ae029
+Content-Type: text/html; charset="UTF-8"
+
+<div dir="ltr"><a href="https://raw.githubusercontent.com/aws/aws-lambda-go/main/events/testdata/ses-sns-event.json">https://raw.githubusercontent.com/aws/aws-lambda-go/main/events/testdata/ses-sns-event.json</a></div>
+
+--00000000000081552906004ae029--
